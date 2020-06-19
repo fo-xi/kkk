@@ -1,0 +1,8 @@
+﻿  4.cpp
+  PasswordGeneretor.cpp
+C:\Users\sash\source\Repos\3, 4, 5\4\PasswordGeneretor.h(13,2): warning C4091:  static : пропускается слева от "PasswordGeneretor", когда ни одна переменная не объявлена
+  User.cpp
+  Создание кода...
+C:\Users\sash\source\Repos\3, 4, 5\4\PasswordGeneretor.h(13,2): warning C4091:  static : пропускается слева от "PasswordGeneretor", когда ни одна переменная не объявлена
+C:\Users\sash\source\Repos\3, 4, 5\4\PasswordGeneretor.cpp(15): warning C4172:  возвращение адреса локальной или временной переменной : password
+  4.vcxproj -> C:\Users\sash\source\Repos\3, 4, 5\Debug\4.exe
